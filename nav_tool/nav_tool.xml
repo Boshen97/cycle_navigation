@@ -1,0 +1,9 @@
+<library path="lib/libnav_tool">
+    <class name="rviz/Cycle_Goal"
+           type="rviz::Cycle_Goal"
+           base_class_type="rviz::Tool">
+        <description>
+            A panel widget allowing simple diff-drive style robot base control.
+        </description>
+    </class>
+</library>
